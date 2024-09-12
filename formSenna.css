@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: #c3d9c9;
+    
+}
+
+.main-info{
+    margin: auto;
+    text-align: center;
+    margin-top: 15%;
+    border: 2px solid #afc4a7;
+    border-radius: 50px;
+    padding: 20px;
+    background-color: #e7f7e5;
+    max-width: 500px;
+}
+
+input{
+    max-width: 120px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+button{
+    border-color: transparent;
+    border-radius: 10px;
+    pad: 5px;
+    color: #ffffff;
+    background-color: #285734;
+}
